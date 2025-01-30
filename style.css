@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+
+form {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    max-width: 300px;
+    margin: auto;
+}
+
+input, select, button {
+    display: block;
+    width: 100%;
+    margin: 10px 0;
+    padding: 10px;
+}
+
+#admin-panel {
+    margin-top: 20px;
+    background: #fff;
+    padding: 15px;
+    border-radius: 5px;
+    max-width: 400px;
+    margin: auto;
+}
